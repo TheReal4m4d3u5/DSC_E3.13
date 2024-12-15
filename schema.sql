@@ -6,8 +6,6 @@
 -- Write SQL DDL corresponding to the schema in Figure 3.18.
 -- Make any reasonable assumptions about data types, and be sure to declare primary and foreign keys.
 
-
-
 CREATE TABLE Person (
     driver_id VARCHAR(10) PRIMARY KEY,
     name VARCHAR(50),
